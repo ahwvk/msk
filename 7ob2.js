@@ -1,0 +1,1 @@
+.btn-primary,.label-primary{background-color:#007772!important}.fr.borderg,.fr.borderg a{border-radius:3px!important;margin-right:0!important;background-color:#007772!important;border:#000 solid 0;color:#fff}.bg{background-color:#508683}.light{background-color:#d0d0d0}
